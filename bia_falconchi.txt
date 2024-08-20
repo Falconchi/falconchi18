@@ -2,7 +2,7 @@ vless://GozargahVPN-3@speedtest.net:443?path=%2Fws%2F%3Fed%3D2048&security=tls&e
 
 vless://7d3bb384-629d-449b-84f0-a371639ec09b@www.speedtest.net:8880?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2056&security=none&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&type=ws#%E2%9A%A1%7C%40argo_vpnn کانال
 
-vless://516fc847-39f1-4a7c-bee9-b8b900dee39d@188.212.96.246:2020?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40v2ray313+%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86+%F0%9F%A6%BB%F0%9F%8F%BB#argo_vpnn کانال
+vless://516fc847-39f1-4a7c-bee9-b8b900dee39d@188.212.96.246:2020?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40+%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86+%F0%9F%A6%BB%F0%9F%8F%BB#argo_vpnn کانال
 
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V15.SiMansaNaT.Ir.#argo_vpnn کانال
 
